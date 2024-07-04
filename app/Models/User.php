@@ -53,4 +53,12 @@ class User extends Authenticatable
     {
         return true;
     }
+
+
+    
+        public function items()
+        {
+            return $this->hasMany(Item::class,'id');
+        }
+    
 }

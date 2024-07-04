@@ -2,6 +2,10 @@ import './bootstrap';
 
 import Alpine from 'alpinejs';
 
-window.Alpine = Alpine;
+Alpine.plugin(Intersect)
 
 Alpine.start();
+
+window.Alpine = Alpine;
+
+
