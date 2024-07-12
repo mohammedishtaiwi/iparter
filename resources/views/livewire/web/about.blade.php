@@ -16,12 +16,7 @@
                     </h2>
 
                     <p>
-                        Donec porttitor, enim ut dapibus lobortis, lectus sem tincidunt dui, eget ornare lectus ex non
-                        libero. Nam rhoncus diam ultrices porttitor laoreet. Ut mollis fermentum ex, vel viverra lorem
-                        volutpat sodales. In ornare porttitor odio sit amet laoreet. Sed laoreet, nulla a posuere
-                        ultrices, purus nulla tristique turpis, hendrerit rutrum augue quam ut est. Fusce malesuada
-                        posuere libero, vitae dapibus eros facilisis euismod. Sed sed lobortis justo, ut tincidunt
-                        velit. Mauris in maximus eros.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit illo nemo illum repellat maxime possimus, necessitatibus minima, repudiandae sequi quae nam, quam officiis neque eius recusandae. Iusto ducimus neque numquam?
                     </p>
                 </div>
             </main>

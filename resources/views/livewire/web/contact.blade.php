@@ -21,21 +21,9 @@
                     </p>
                     <ul class="mb-6 md:mb-0">
                         <li class="flex">
-                            <div class="flex h-10 w-10 items-center justify-center rounded bg-blue-900 text-gray-50">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                    stroke-linejoin="round" class="h-6 w-6">
-                                    <path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0"></path>
-                                    <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0z">
-                                    </path>
-                                </svg>
-                            </div>
-                            <div class="ml-4 mb-4">
-                                <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">Our Address
-                                </h3>
-                                <p class="text-gray-600 dark:text-slate-400">1230 Barter Street, Trade City</p>
-                                <p class="text-gray-600 dark:text-slate-400">New York, USA</p>
-                            </div>
+                        
+                            <!-- <div class="ml-4 mb-4">
+                            </div> -->
                         </li>
                         <li class="flex">
                             <div class="flex h-10 w-10 items-center justify-center rounded bg-blue-900 text-gray-50">
@@ -52,7 +40,7 @@
                             <div class="ml-4 mb-4">
                                 <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">Contact Information
                                 </h3>
-                                <p class="text-gray-600 dark:text-slate-400">Mobile: +1 (123) 456-7890</p>
+                                <p class="text-gray-600 dark:text-slate-400">Mobile: 00962780989265</p>
                                 <p class="text-gray-600 dark:text-slate-400">Email: support@barterhub.com</p>
                             </div>
                         </li>
