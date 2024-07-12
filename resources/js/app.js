@@ -1,11 +1,7 @@
 import './bootstrap';
+import 'flowbite';
 
-import Alpine from 'alpinejs';
 
-Alpine.plugin(Intersect)
 
-Alpine.start();
-
-window.Alpine = Alpine;
 
 
